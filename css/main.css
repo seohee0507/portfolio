@@ -495,9 +495,9 @@ nav ul li a:hover:after{
 .portfolio_right:hover:before{
 	background-color:rgba(255,255,255,0.2);
 }
-.thumb_wrap{width:780px;position:absolute;transform:translate(-6%, -50px)}
-.portfolio_all:nth-of-type(2) .thumb_wrap{transform:translate(-26%, -50px)}
-.portfolio_all:nth-of-type(3) .thumb_wrap{transform:translate(-12%, -50px)}
+.thumb_wrap{width:820px;position:absolute;transform:translate(-6%, -150px)}
+.portfolio_all:nth-of-type(2) .thumb_wrap{transform:translate(-22%, -150px)}
+.portfolio_all:nth-of-type(3) .thumb_wrap{transform:translate(-12%, -100px)}
 .thumb_wrap ul{display:flex;gap:12px;transform:rotate(15deg)}
 .thumb_wrap ul li{width:380px;}
 .thumb_wrap ul li img{width:100%}
