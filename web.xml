@@ -117,6 +117,15 @@
 			<a href="https://m.neteacher.co.kr/english/pages/event/2024/0215/event.asp" target="_blank" rel="noopener noreferrer" title="NE Teacher 프로모션 바로가기">Mobile</a>
 		</durl>
 	</item>
+	<item name="Promotion">
+		<concept>자사 서비스 이벤트 프로모션</concept>
+		<skill>ASP css3 JavaScript(jQuery)</skill>
+		<imgsrc>images/promotion/neteacher02.png</imgsrc>
+		<durl>
+			<a href="http://seoheedoc.dothome.co.kr/neteacher_promotion" target="_blank" rel="noopener noreferrer" title="NE Teacher 프로모션 바로가기">PC</a>
+			<a href="http://seoheedoc.dothome.co.kr/neteacher_promotion/mobile" target="_blank" rel="noopener noreferrer" title="NE Teacher 프로모션 바로가기">Mobile</a>
+		</durl>
+	</item>
 
 	<!-- *** Study -->
 	<item name="Study">
